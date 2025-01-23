@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Step">
+<Data>
+    <Name>Stop Run</Name>
+    <Description>Run stopped by user.</Description>
+    <StartTime>2025-01-16 13:12:12</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>3d492a13ac454e66b1b7f0bccd2b1691</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>GUITestJenkins</Name>
+    <ToolName>OpenText Functional Testing</ToolName>
+    <ToolVersion>24.4</ToolVersion>
+    <ToolVersionStringLiteral>24.4</ToolVersionStringLiteral>
+    <Description />
+    <StartTime>2025-01-16 13:12:11</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>56b1673a6aa4417a9a30464e007c276a</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>+02:00:00</Timezone>
+      <Locale>English (United States)</Locale>
+      <User>QCENTRISEG\Aya.Qurtam</User>
+      <CpuInfo>12th Gen Intel(R) Core(TM) i7-1255U</CpuInfo>
+      <NumberOfCores>12</NumberOfCores>
+      <TotalMemory>16068</TotalMemory>
+      <HostName>Qcentriseg.com\QCENTRIS-400</HostName>
+      <OSInfo>Windows 11 23H2 (x64)</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xlsx" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>GUITestJenkins_2</ResultName>
+    <RunStartTime>2025-01-16 13:12:11</RunStartTime>
+    <Timezone>+02:00:00</Timezone>
+    <OrchestrationToolName>OpenText Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>24.4</OrchestrationToolVersion>
+    <OrchestrationToolVersionStringLiteral>24.4</OrchestrationToolVersionStringLiteral>
+  </GeneralInfo>
+</Results>
